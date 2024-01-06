@@ -1,0 +1,29 @@
+{
+  "name": "gerrap_socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/bensaad.tig/gerrap_socket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/bensaad.tig/gerrap_socket/issues"
+  },
+  "homepage": "https://gitlab.com/bensaad.tig/gerrap_socket#readme",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mongoose": "^7.5.0",
+    "socket.io": "^4.7.2",
+    "ws": "^8.14.1"
+  }
+}
